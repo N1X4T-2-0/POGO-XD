@@ -17,19 +17,19 @@
  <--×🔶×--> 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 <--×🔶×--> 👇
  
 
-rm -rf TAKBIR-XD
+rm -rf POGO-XD
 
 
-git clone --depth=1        https://github.com✴️/N1X4T-2-0/TAKBIR-XD✴️.git
+git clone --depth=1        https://github.com/N1X4T-2-0/POGO-XD.git 
 
 
 git pull
 
 
-cd TAKBIR-XD
+cd POGO-XD
 
 
-python TAKBIR-XD✴️.py
+python POGO-XD✴️.py
 
 =--------------------------------------------------------------->
 
